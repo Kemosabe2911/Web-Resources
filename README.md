@@ -15,3 +15,6 @@
 ## Logos
 - https://www.logotouse.com/
 - https://logo.com/
+
+## Image Formatting
+- https://www.remove.bg/
