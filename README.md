@@ -18,3 +18,6 @@
 
 ## Image Formatting
 - https://www.remove.bg/
+
+## Web Hosting
+- https://render.com/
