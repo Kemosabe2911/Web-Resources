@@ -3,6 +3,7 @@
 ## Icons
 - https://icon-icons.com/
 - https://icons8.com/
+- https://www.flaticon.com/
 
 ## Animations
 - https://anijs.github.io/
