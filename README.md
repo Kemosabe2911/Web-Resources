@@ -23,3 +23,4 @@
 ## Web Hosting
 - https://render.com/
 - https://pages.cloudflare.com/
+- https://www.netlify.com/
